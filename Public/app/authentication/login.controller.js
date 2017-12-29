@@ -9,8 +9,8 @@ function LoginController(AuthenticationService, AuthenticationState, $localStora
     var vm = this;
 
     vm.user = {
-        email: 'administrator@jetexpress.co.id',
-        password: 'Standar123.'
+        email: '',
+        password: ''
     };
 
     vm.login = login;
