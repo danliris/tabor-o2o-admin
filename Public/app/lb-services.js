@@ -13,8 +13,9 @@
 (function(window, angular, undefined) {
   'use strict';
 
+
    var urlBase = "http://jet-o2o-webapi.azurewebsites.net/api";
-  
+
 //  var authHeader = 'authorization';
 
   //function getHost(url) {
